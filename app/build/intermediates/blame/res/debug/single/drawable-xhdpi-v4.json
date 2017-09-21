@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tyudy/Developer/AndroidProjects/SuperAsteroids/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/space.bmp",
+        "source": "/Users/tyudy/Developer/AndroidProjects/SuperAsteroids/app/src/main/res/drawable-xhdpi/space.bmp"
+    },
+    {
+        "merged": "/Users/tyudy/Developer/Android/SuperAsteroids/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/space.bmp",
+        "source": "/Users/tyudy/Developer/Android/SuperAsteroids/app/src/main/res/drawable-xhdpi/space.bmp"
+    }
+]

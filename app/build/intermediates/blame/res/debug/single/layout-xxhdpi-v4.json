@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tyudy/Developer/Android/SuperAsteroids/app/build/intermediates/res/merged/debug/layout-xxhdpi-v4/fragment_part_chooser.xml",
+        "source": "/Users/tyudy/Developer/Android/SuperAsteroids/app/src/main/res/layout-xxhdpi/fragment_part_chooser.xml"
+    },
+    {
+        "merged": "/Users/tyudy/Developer/AndroidProjects/SuperAsteroids/app/build/intermediates/res/merged/debug/layout-xxhdpi-v4/fragment_part_chooser.xml",
+        "source": "/Users/tyudy/Developer/AndroidProjects/SuperAsteroids/app/src/main/res/layout-xxhdpi/fragment_part_chooser.xml"
+    }
+]

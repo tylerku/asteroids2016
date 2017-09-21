@@ -1,0 +1,4 @@
+#Wed Nov 16 23:22:58 MST 2016
+base.0=/Users/tyudy/Developer/AndroidProjects/SuperAsteroids/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/tyudy/Developer/AndroidProjects/SuperAsteroids/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex
