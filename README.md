@@ -1,5 +1,5 @@
 # asteroids2016
-Cool Asteroids Game For Android
+Cool asteroids game for Android.
 To play just clone the repo, open it in Android Studio,
 and run it on your device!
 Make sure you don't skip the import data step in the game's the main menu!
